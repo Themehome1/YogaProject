@@ -32,15 +32,12 @@ body {
   margin: 0 auto;
 }
 
-.mainMenu {
+.main-menu {
   display: flex;
-  margin-left: 149px;
-  margin-top: 27px;
-  margin-bottom: 27px;
+  margin: 27px 0 27px 149px;
 }
 
 .home {
-  display: inline;
   font-size: 24px;
   font-weight: 500;
   line-height: 29px;
@@ -92,14 +89,12 @@ body {
   margin-left: 50px;
 }
 
-.contactContainer {
+.contact-container {
   display: flex;
-  margin-left: 275px;
-  margin-top: 27px;
-  margin-bottom: 27px;
+  margin: 27px 0 27px 275px;
 }
 
-.contactButton {
+.contact-button {
   display: inline;
   width: 178px;
   height: 44px;
@@ -112,7 +107,7 @@ body {
   text-decoration: none;
 }
 
-.mainContainer {
+.main-container {
   display: flex;
   width: 1440px;
   height: 700px;
@@ -128,9 +123,7 @@ body {
 
 .text1 {
   display: inline-block;
-  margin-top: 225px;
-  margin-left: 150px;
-  margin-bottom: 10px;
+  margin: 225px 0 10px 150px;
   font-size: 24px;
   font-weight: 300px;
   line-height: 29px;
@@ -138,8 +131,7 @@ body {
 
 .slogan {
   display: block;
-  margin-left: 150px;
-  margin-bottom: 30px;
+  margin: 0 0 30px 150px;
   font-weight: 700;
   font-size: 40px;
   line-height: 48px;
@@ -151,8 +143,7 @@ body {
 
 .text2 {
   display: block;
-  margin-left: 150px;
-  margin-bottom: 40px;
+  margin: 0 0 40px 150px;
   font-size: 24px;
   font-weight: 400;
   line-height: 29px;
@@ -160,15 +151,14 @@ body {
   height: 58px;
 }
 
-.moreInformation {
+.more-information {
   display: block;
   width: 178px;
   height: 44px;
   border: 1px solid #1698DA;
   border-radius: 40px;
   text-align: center;
-  margin-left: 190px;
-  margin-bottom: 236px;
+  margin: 0 0 190px 236px;
   font-size: 20px;
   font-weight: 500;
   line-height: 44px;
@@ -180,45 +170,39 @@ body {
 }
 
 .mainimg {
-  margin-top: 33px;
-  margin-right: 150px;
-  margin-bottom: 33px;
+  margin: 33px 150px 33px 0;
 }
 
-.maincontainer1 {
+.main-container1 {
   display: flex;
   width: 1440px;
   height: 600px;
   margin: 0 auto;
 }
 
-.mainpage {
+.main-page {
   display: block;
 }
 
-.MainsAbout {
+.mains-about {
   display: inline-block;
-  margin-top: 110px;
-  margin-left: 150px;
-  margin-bottom: 32px;
+  margin: 110px 0 32px 150px;
   font-size: 40px;
   font-weight: 700;
   line-height: 48px;
 }
 
-.mainTexti {
+.main-texti {
   display: block;
   font-weight: 300;
   font-size: 24px;
   line-height: 29px;
-  margin-right: 10px;
-  margin-bottom: 42px;
-  margin-left: 150px;
+  margin: 0 10px 42px 150px;
   width: 570px;
   height: 219px;
 }
 
-.MoreReadTwo {
+.more-read-two {
   display: block;
   width: 178px;
   height: 44px;
@@ -232,7 +216,7 @@ body {
   text-decoration: none;
 }
 
-.mainImage1 {
+.main-image1 {
   display: block;
   margin: 108px 150px 108px 0px;
   width: 560px;
@@ -241,7 +225,7 @@ body {
   box-shadow: 0px 4px 4px 5px rgba(0, 0, 0, 0.25);
 }
 
-.pageImage {
+.page-image {
   display: block;
   margin: 21px 20px 21px 20px;
   width: 520px;
@@ -260,7 +244,7 @@ body {
   margin-bottom: 30px;
 }
 
-.ourClasses {
+.our-classes {
   font-size: 40px;
   line-height: 48px;
   padding-top: 90px;
@@ -273,16 +257,13 @@ body {
 }
 
 .line1 {
-  margin-left: 654px;
-  margin-right: 10px;
-  margin-top: 5px;
+  margin: 5px 10px 0 654px;
   width: 50px;
   height: 3px;
 }
 
 .ball {
-  margin-right: 10px;
-  margin-bottom: 20px;
+  margin: 0 10px 20px 0;
   width: 13px;
   height: 13px;
 }
@@ -302,30 +283,20 @@ body {
   text-align: center;
 }
 
-.middleimg {
+.middle-img {
   display: flex;
   width: 1100px;
   margin-left: 150px;
 }
 
-.imgpage1 {
+.imgpage {
   width: 350px;
   height: 200px;
   margin-right: 45px;
 }
 
-.imgpage2 {
-  width: 350px;
-  height: 200px;
-  margin-right: 45px;
-}
 
-.imgpage3 {
-  width: 350px;
-  height: 200px;
-}
-
-.skillsContainer {
+.skills-container {
   display: flex;
 }
 
@@ -336,8 +307,7 @@ body {
   font-size: 22px;
   line-height: 27px;
   text-align: left;
-  margin-right: 45px;
-  margin-left: 150px;
+  margin: 0 45px 0 150px;
 }
 
 .yoga {
@@ -382,8 +352,7 @@ body {
   font-size: 22px;
   line-height: 27px;
   text-align: left;
-  margin-right: 45px;
-  margin-bottom: 40px;
+  margin: 0 45px 40px 0;
 }
 
 .skill3 {
@@ -395,7 +364,7 @@ body {
   margin-right: 45px;
 }
 
-.buttonClasses {
+.button-classes {
   display: block;
   width: 270px;
   height: 44px;
