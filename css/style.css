@@ -384,6 +384,7 @@ body {
   width: 1440px;
   margin: 0 auto;
   padding-bottom: 30px;
+  padding-bottom: 50px;
 }
 
 .timeison {
@@ -391,7 +392,7 @@ body {
   font-weight: 600;
   font-size: 18px;
   line-height: 50px;
-  width: 1100px;
+  width: 1096px;
   height: 50px;
   margin-left: 170px;
   border: 1px solid #00000080;
@@ -428,24 +429,24 @@ body {
 .morning-container {
   display: flex;
   margin-left: 170px;
-  width: 1100px;
+  width: 1096px;
   border: 1px solid #000000 50%;
 }
 
 .timing {
-  width: 145px;
-  height: 145px;
+  width: 137px;
+  height: 137px;
   font-weight: 400;
   font-size: 18px;
-  line-height: 145px;   
+  line-height: 137px;   
   text-align: center; 
   border: 0.5px solid rgba(0.5, 0, 0, 0.5);
   
 }
 
 .time-exercise {
-  width: 145px;
-  height: 145px;
+  width: 137px;
+  height: 137px;
   text-align: center;
   border: 0.5px solid rgba(0.5, 0, 0, 0.5);
   background-color: #8C9EDB;
@@ -469,7 +470,138 @@ body {
 .afternoon-container {
   display: flex;
   margin-left: 170px;
-  width: 1100px;
+  width: 1096px;
   border: 1px solid #000000 50%;
+}
+
+.time-karate  {
+  width: 137px;
+  height: 137px;
+  text-align: center;
+  border: 0.5px solid rgba(0.5, 0, 0, 0.5);
+  background-color: #F76C73;
+}
+
+.evening-container {
+  display: flex;
+  margin-left: 170px;
+  width: 1096px;
+  border: 1px solid #000000 50%;
+}
+
+.time-yoga {
+  width: 137px;
+  height: 137px;
+  text-align: center;
+  border: 0.5px solid rgba(0.5, 0, 0, 0.5);
+  background-color: #DBAADD;
+}
+
+.trainer-container {
+  width: 1440px;
+  margin: 0 auto;
+  background-color: #F1F1F1;
+  padding-bottom: 50px;
+}
+
+.trainers {
+  width: 360px;
+  height: 300px;
+  margin-right: 45px;
+}
+
+.gallery-container {
+  width: 1440px;
+  margin: 0 auto;
+  padding-bottom: 50px;
+}
+
+.our-gallery {
+  font-size: 40px;
+  line-height: 48px;
+  padding-top: 80px;
+  margin-bottom: 15px;
+  font-weight: 700;
+}
+
+.gallery-up {
+  width: 368px;
+  height: 300px;
+  margin: 0 20px 20px 0;
+}
+
+.gallery-down {
+  width: 368px;
+  height: 300px;
+  margin: 0 20px 0 0;
+}
+
+.bloggercontainer {
+  display: flex;
+  width: 1150px;
+  margin: 0 auto;
+}
+
+.blogger {
+  display: flex;
+  margin-left: 20px;
+}
+
+.bloggerimg {
+  width: 200px;
+  height: 281px;
+}
+
+.blogger-info {
+  width: 350px;
+  height: 230px;
+  background-color: #fff; 
+  margin: 25px 40px 66px 0;
+  box-shadow: 5px 0px 10px rgba(0, 0, 0, 0.10);
+}
+
+.info-blogup {
+  font-weight: 600;
+  font-size: 20px;
+  margin: 30px 0 11px 20px;
+}
+
+.info-blog1 {
+  width: 310px;
+  font-weight: 200;
+  font-size: 20px;
+  margin: 0 0 11px 20px;
+}
+
+.info-blog2 {
+  width: 310px;
+  height: 65px;
+  font-weight: 300;
+  font-size: 24px;
+  margin: 0 0 11px 20px;
+}
+
+.info-blogdown {
+  font-weight: 600;
+  font-size: 20px;
+  margin: 0 0 15px 20px;
+  text-decoration: none;
+}
+
+.blog-container {
+  width: 1440px;
+  margin: 0 auto;
+  background-color: #F1F1F1;
+}
+
+.price-container {
+  width: 1440px;
+  margin: 0 auto;
+}
+
+.prices {
+  margin: 0 30px 0 150px;
+  width: 360px;
+  box-shadow: 5px 0px 10px rgba(0, 0, 0, 0.25)
 }
 
