@@ -536,6 +536,8 @@ body {
   margin: 0 20px 0 0;
 }
 
+
+
 .bloggercontainer {
   display: flex;
   width: 1150px;
@@ -605,3 +607,60 @@ body {
   box-shadow: 5px 0px 10px rgba(0, 0, 0, 0.25)
 }
 
+
+.time-table {
+  width: 1100px;
+  margin: 0 auto;
+  text-align: center;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  border: 1px double black; /* Рамка вокруг таблицы */
+  border-collapse: collapse;
+  border: 0.5px solid rgba(0, 0, 0, 0.2);
+}
+
+td {
+  width: 137px;
+  height: 137px;
+  border: 1px solid black;
+  border: 0.5px solid rgba(0, 0, 0, 0.2);
+}
+
+.thead  {
+  width: 1100px;
+  height: 50px;
+}
+
+.bg-blue {
+  background-color: #8C9EDB;
+  color: #ffffff;
+}
+
+ .bg-red {
+  background-color: #F76C73;
+  color: #ffffff;
+ }
+
+ .bg-purple {
+  background-color: #DBAADD;
+  color: #ffffff;
+ }
+
+ .table-top {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 25px;
+ }
+
+ .table-midle{
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 25px;
+ }
+
+ .table-bot {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 25px;
+ }
