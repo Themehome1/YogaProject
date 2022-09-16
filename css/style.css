@@ -803,6 +803,50 @@ td {
   display: flex;
 }
 
+.end-container {
+    width: 1440px;
+    height: 287px;
+    margin: 0 auto;
+  }
+
+  .main-end {
+    display: flex;
+  }
+
+  .media {
+    width: 250px;
+    padding-top: 113px;
+    margin: 0 51px 0 165px;
+  }
+
+.end-info {
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 21px;
+  letter-spacing: 0.005em;
+  margin-bottom: 31px;
+}
+
+.mini-media {
+  width: auto;
+  height: 25px;
+  margin-right: 12px;
+}
+
+.end-menu {
+  display: inline;
+}
+
+.head-end {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 28px;
+}
+
+
+
+
+
 
 
 
