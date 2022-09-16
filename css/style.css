@@ -596,23 +596,11 @@ body {
   background-color: #F1F1F1;
 }
 
-.price-container {
-  width: 1440px;
-  margin: 0 auto;
-}
-
-.prices {
-  margin: 0 30px 0 150px;
-  width: 360px;
-  box-shadow: 5px 0px 10px rgba(0, 0, 0, 0.25)
-}
-
 
 .time-table {
   width: 1100px;
   margin: 0 auto;
   text-align: center;
-  font-weight: 400;
   font-size: 18px;
   line-height: 22px;
   border: 1px double black; /* Рамка вокруг таблицы */
@@ -648,19 +636,102 @@ td {
  }
 
  .table-top {
-  font-weight: 600;
   font-size: 18px;
   line-height: 25px;
  }
 
  .table-midle{
-  font-weight: 500;
   font-size: 16px;
   line-height: 25px;
  }
 
  .table-bot {
-  font-weight: 500;
   font-size: 14px;
   line-height: 25px;
  }
+
+ .price-container {
+  width: 1440px;
+  margin: 0 auto;
+}
+
+.price-main {
+  display: flex;
+}
+
+.prices1 {
+  margin: 0 30px 71px 150px;
+  width: 360px;
+  height: 620px;
+  box-shadow: 5px 0px 10px rgba(0, 0, 0, 0.25), 0px 5px 10px rgba(0, 0, 0, 0.25);
+}
+
+.pluses {
+  height: 104px;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 104px;
+  text-align: center;
+  background-color: #F1F1F1;
+}
+
+.sell-container {
+  display: flex;
+  align-items: center;
+  height: 104px;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 104px;
+}
+
+.sellprice1 {
+  margin-left: 95px;
+  font-weight: 400;
+  font-size: 55px;
+  line-height: 67px;
+  color: #696969;
+}
+
+.sellprice2 {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  color: #696969;
+  margin-top: 25px;
+}
+
+.often {
+  height: 104px;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 104px;
+  text-align: center;
+  background-color: #F1F1F1;
+  border: 1px solid rgba(0, 0, 0, 5%);
+
+
+}
+
+.button-buy {
+  position: relative;
+  margin-top: -22px;
+  display: block;
+  margin-left: 105px;
+  width: 150px;
+  background: #F1F1F1;
+  border-radius: 50px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 42px;
+  text-align: center;
+  box-shadow: 5px 0px 10px rgba(0, 0, 0, 0.25);
+  text-decoration: none;
+}
+
+.prices2 {
+  margin: 0 30px 71px 0;
+  width: 360px;
+  height: 620px;
+  box-shadow: 5px 0px 10px rgba(0, 0, 0, 0.25), 0px 5px 10px rgba(0, 0, 0, 0.25);
+}
+
