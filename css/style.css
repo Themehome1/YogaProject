@@ -524,16 +524,10 @@ body {
   font-weight: 700;
 }
 
-.gallery-up {
+.gallery-img {
   width: 368px;
   height: 300px;
   margin: 0 20px 20px 0;
-}
-
-.gallery-down {
-  width: 368px;
-  height: 300px;
-  margin: 0 20px 0 0;
 }
 
 
@@ -733,5 +727,11 @@ td {
   width: 360px;
   height: 620px;
   box-shadow: 5px 0px 10px rgba(0, 0, 0, 0.25), 0px 5px 10px rgba(0, 0, 0, 0.25);
+}
+
+.testimonies-container {
+  width: 1440px;
+  margin: 0 auto;
+  background-color: #F1F1F1;
 }
 
