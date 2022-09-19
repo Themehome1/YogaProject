@@ -23,6 +23,7 @@ html {
 
   a:link, a:visited  {
     text-decoration: none;
+    color: #000000;
   }
   
   a:hover  {
@@ -827,6 +828,10 @@ td {
   margin-bottom: 31px;
 }
 
+.media-box {
+  height: 30px;
+}
+
 .mini-media {
   width: auto;
   height: 25px;
@@ -834,15 +839,47 @@ td {
 }
 
 .end-menu {
-  display: inline;
+  margin: 50px 33px 61px 0;
 }
 
 .head-end {
   font-weight: 600;
   font-size: 20px;
   line-height: 28px;
+  margin-bottom: 30px;
 }
 
+.ending-icon {
+  width: auto;
+  height: 25px;
+  margin: 0 16px 16px 0;
+}
+
+.hyper  {
+  display: block;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 19px;
+  margin: 0 20px 14px 0;
+}
+
+.end-bot {
+  display: flex;
+}
+
+.copyright-cont {
+  width: 1400px;
+  height: 70px;
+  margin: 0 auto;
+  background-color: #F1F1F1;
+}
+
+.copyright {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 70px;
+  text-align: center;
+}
 
 
 
